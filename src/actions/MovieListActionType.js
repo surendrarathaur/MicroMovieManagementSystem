@@ -1,0 +1,2 @@
+export const MOVIE_LIST = 'MOVIE_LIST';
+export const MOVIE_LIST_FILTER = 'MOVIE_LIST_FILTER';

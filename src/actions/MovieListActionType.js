@@ -1,2 +1,4 @@
 export const MOVIE_LIST = 'MOVIE_LIST';
 export const MOVIE_LIST_FILTER = 'MOVIE_LIST_FILTER';
+export const ADD_MY_LIST = 'MOADD_MY_LISTVIE_LIST';
+export const ADD_WATCH_LIST = 'ADD_WATCH_LIST';
